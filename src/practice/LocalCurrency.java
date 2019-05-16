@@ -1,4 +1,4 @@
-package com.test;
+package practice;
 
 import java.text.NumberFormat;
 import java.util.Locale;

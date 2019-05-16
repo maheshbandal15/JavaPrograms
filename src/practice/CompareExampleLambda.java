@@ -1,4 +1,4 @@
-package com.test;
+package practice;
 import java.util.*;
 
 class Student{
