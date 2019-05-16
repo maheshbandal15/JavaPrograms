@@ -33,6 +33,9 @@ public class TraditionalPrograms {
 		else
 			return num * factorial(num - 1);
 	}
+	public int factorialOne(int num) {
+		return (num == 0) ? 1 : num * factorial(num - 1);
+	}
 	public void fibonacciSeries() {
 		int n1=0, n2=1,n3;
 		int count=15;
