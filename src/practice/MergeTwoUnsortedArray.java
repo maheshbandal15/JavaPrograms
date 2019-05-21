@@ -1,7 +1,7 @@
 package practice;
 
 public class MergeTwoUnsortedArray {
-
+	
 	public static void main(String[] args) {
 		int[] arr1 = {2,4,34,64,34,23,23,2,44,20,49,202,37,98,67};
 		int arr2[]= {3,60,35,2,65,45,320,23,1,20,5,-1};
